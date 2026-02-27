@@ -1,0 +1,30 @@
+[
+  {
+    "source": "FDA",
+    "date": "2026-02-20",
+    "headline": "FDA AI/ML-Enabled Device Database Surpasses 950 Clearances",
+    "take": "Milestone marks explosive growth in cleared AI diagnostics, but multi-modal fusion devices remain under 5% of total.",
+    "url": ""
+  },
+  {
+    "source": "Epic Systems",
+    "date": "2026-02-18",
+    "headline": "Epic Expands Ambient AI Integration Across 12 EHR Modules",
+    "take": "Largest EHR vendor betting big on embedded AI — signals that the orchestration layer is moving inside the EMR, not around it.",
+    "url": ""
+  },
+  {
+    "source": "Nature Medicine",
+    "date": "2026-02-15",
+    "headline": "Multi-Agent Pathology System Matches Tumor Board Accuracy in Retrospective Study",
+    "take": "First large-scale evidence that chaining specialized foundation models can replicate expert panel consensus on complex oncology cases.",
+    "url": ""
+  },
+  {
+    "source": "LangChain Blog",
+    "date": "2026-02-12",
+    "headline": "LangGraph Clinical Workflow Templates Now Available for HIPAA-Compliant Deployments",
+    "take": "Open-source agentic frameworks are closing the gap on clinical-grade requirements — expect rapid prototyping of multi-agent clinical pipelines.",
+    "url": ""
+  }
+]
